@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/siangcoolab/static/css/main.b613bf47.css",
-    "main.js": "/siangcoolab/static/js/main.b0fcaa8d.js",
-    "static/js/839.df3f6337.chunk.js": "/siangcoolab/static/js/839.df3f6337.chunk.js",
-    "static/media/iitglo.jpeg": "/siangcoolab/static/media/iitglo.13dd91b544544f5c00f8.jpeg",
-    "static/media/pencil_image.jpg": "/siangcoolab/static/media/pencil_image.63e33ddb660177017f28.jpg",
-    "static/media/insta_logo.png": "/siangcoolab/static/media/insta_logo.52f847ee8f807503df62.png",
-    "static/media/add.png": "/siangcoolab/static/media/add.132696644e79a1f05c3b.png",
-    "static/media/blank_profile_pic.webp": "/siangcoolab/static/media/blank_profile_pic.efadb13dba95b5bc918b.webp",
-    "static/media/logo.svg": "/siangcoolab/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/siangcoolab/index.html",
-    "main.b613bf47.css.map": "/siangcoolab/static/css/main.b613bf47.css.map",
-    "main.b0fcaa8d.js.map": "/siangcoolab/static/js/main.b0fcaa8d.js.map",
-    "839.df3f6337.chunk.js.map": "/siangcoolab/static/js/839.df3f6337.chunk.js.map"
+    "main.css": "/SiangCoolab/static/css/main.c60eb4e8.css",
+    "main.js": "/SiangCoolab/static/js/main.5d53d4fe.js",
+    "static/js/839.df3f6337.chunk.js": "/SiangCoolab/static/js/839.df3f6337.chunk.js",
+    "static/media/iitglo.jpeg": "/SiangCoolab/static/media/iitglo.13dd91b544544f5c00f8.jpeg",
+    "static/media/pencil_image.jpg": "/SiangCoolab/static/media/pencil_image.63e33ddb660177017f28.jpg",
+    "static/media/insta_logo.png": "/SiangCoolab/static/media/insta_logo.52f847ee8f807503df62.png",
+    "static/media/add.png": "/SiangCoolab/static/media/add.132696644e79a1f05c3b.png",
+    "static/media/blank_profile_pic.webp": "/SiangCoolab/static/media/blank_profile_pic.efadb13dba95b5bc918b.webp",
+    "static/media/logo.svg": "/SiangCoolab/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SiangCoolab/index.html",
+    "main.c60eb4e8.css.map": "/SiangCoolab/static/css/main.c60eb4e8.css.map",
+    "main.5d53d4fe.js.map": "/SiangCoolab/static/js/main.5d53d4fe.js.map",
+    "839.df3f6337.chunk.js.map": "/SiangCoolab/static/js/839.df3f6337.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b613bf47.css",
-    "static/js/main.b0fcaa8d.js"
+    "static/css/main.c60eb4e8.css",
+    "static/js/main.5d53d4fe.js"
   ]
 }
